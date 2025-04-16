@@ -40,7 +40,6 @@ class Pet:
 
 my_pet = Pet()
 
-# Interactive demonstration
 while True:
     print("\nChoose an action:")
     print("1. Eat")
