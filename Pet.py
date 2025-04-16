@@ -1,6 +1,6 @@
 class Pet:
     def __init__(self):
-        self.name = "Max"  # Set the pet's name to Ponono
+        self.name = "Max"  # Set the pet's name to Max
         self.hunger = 5  # Default hunger level
         self.energy = 5  # Default energy level
         self.happiness = 5  # Default happiness level
