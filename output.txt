@@ -1,0 +1,15 @@
+Max is eating... 🍖
+Max is playing... 🐾
+Max is sleeping... 😴
+Max is learning a new trick: roll over 🎓
+Max is learning a new trick: play dead 🎓
+
+Max's current status:
+Hunger: 3 🍗
+Energy: 8 🔋
+Happiness: 8 😊
+Tricks: ['roll over', 'play dead']
+
+Max knows the following tricks:
+ - roll over
+ - play dead
