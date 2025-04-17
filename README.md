@@ -62,3 +62,34 @@ Deadline: [Set your date]
 Submission format: clone / fork this repo
 
 Bonus points for creativity (custom actions, emojis, pet types, etc.)
+# 🐶 Digital Pet – Python OOP Challenge
+
+Welcome to our group submission for the **Python OOP Challenge**!  
+In this fun project, we created a virtual pet that can eat, sleep, play, and even learn tricks 🐾 — all using Python Object-Oriented Programming (OOP) concepts.
+
+---
+
+## 📚 Features
+
+✅ Custom `Pet` class with attributes:  
+- `name`, `hunger`, `energy`, `happiness`
+
+✅ Methods to interact with the pet:
+- `.eat()` 🍖
+- `.play()` 🐾
+- `.sleep()` 😴
+- `.train(trick)` 🎓
+- `.show_tricks()` ✅
+- `.get_status()` 🔋
+
+✅ Bonus:
+- Trick learning system
+- Emoji-based user interaction for fun and clarity
+
+---
+
+## ✅ Sample Output
+
+Here's what happens when we run our program (`main.py`):
+
+
